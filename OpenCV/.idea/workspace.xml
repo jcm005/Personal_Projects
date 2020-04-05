@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c4faabf-1a0c-4346-9bc5-d60b5f57eedd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a8NMSBBa3IKZvl7H22bdQ4mdfj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/Pdfs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c4faabf-1a0c-4346-9bc5-d60b5f57eedd" name="Default Changelist" comment="" />
+      <created>1586113212763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586113212763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586113822886">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="127" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.973@0.23.1680.973" timestamp="1586113822886" />
+    <state x="1" y="23" key="search.everywhere.popup" timestamp="1586120515340">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="1" y="23" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1586120515340" />
+  </component>
+</project>
