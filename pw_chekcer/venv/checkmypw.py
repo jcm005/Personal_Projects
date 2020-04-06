@@ -44,5 +44,9 @@ def main(args):
             print(f'You are all good!  {password} was not found')
         return 'done'
 
-main(sys.argv[1:])
+
+if __name__ == '__main__':
+    sys.exit(main(sys.argv[1:]))
+
+
 
